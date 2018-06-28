@@ -1,3 +1,19 @@
 h1 {
     text-align: center
 }
+
+.movieForm {
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.genreForm {
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.directorForm {
+    display: grid;
+    grid-template-columns: auto
+}
+
