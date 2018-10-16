@@ -41,4 +41,4 @@ const saveDatabase = function (databaseObject, localStorageKey) {
     return JSON.parse(databaseString)
   }
   
-  saveDatabase(movieData, "MovieList")
+  saveDatabase(movieData,"MovieList")
